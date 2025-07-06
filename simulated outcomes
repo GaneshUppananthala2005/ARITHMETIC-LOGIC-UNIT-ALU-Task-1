@@ -1,0 +1,11 @@
+## Simulation and Report
+Run full simulation and capture a .vcd waveform for a test vector.
+
+Summarize results in sims/report.md, e.g.
+
+| Test Case   | A  | B  | Sel | Output | Carry | Pass/Fail |
+| ----------- | -- | -- | --- | ------ | ----- | --------- |
+| Addition    | 10 | 5  | 000 | 15     | 0     | ✔️        |
+| Subtraction | 5  | 10 | 001 | 251    | 1     | ✔️        |
+| AND         | 12 | 10 | 010 | 8      | 0     | ✔️        |
+| …           | …  | …  | …   | …      | …     | …         |
