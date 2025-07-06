@@ -7,7 +7,8 @@ A simple yet powerful **8‑bit Arithmetic Logic Unit (ALU)** written in Verilog
 - Subtraction  
 - Bitwise AND  
 - Bitwise OR  
-- Bitwise NOT  
+- Bitwise NOT
+
 
 
 
